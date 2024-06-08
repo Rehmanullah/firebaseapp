@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723263150395",
+    "project_id": "filemgtapp",
+    "storage_bucket": "filemgtapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723263150395:android:f8071de2a1941c8fd0bf1e",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFu-0AvEswdDCTsLxJFcYpN7qjtZTQ5Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
